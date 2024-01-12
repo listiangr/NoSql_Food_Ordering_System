@@ -1,0 +1,33 @@
+[{
+  "_id": {
+    "$oid": "63b559ecab410000f5000a65"
+  },
+  "Username": "fia",
+  "Email": "fia@gmail.com",
+  "Phone": "08123456789",
+  "Password": "$2y$10$HsktNNaC.1tXheqQ8GGmPeSumcZn56K6bpVwXb6Fmmzs6uW/a9abG"
+},{
+  "_id": {
+    "$oid": "63b56514ab410000f5000a68"
+  },
+  "Username": "alifia",
+  "Email": "alifia@gmail.com",
+  "Phone": "08123456789",
+  "Password": "$2y$10$AZBh9D4Uf703CYa0noiBVu97Gl9jatG.PTOXFo64HOwPnYzPb9M2i"
+},{
+  "_id": {
+    "$oid": "63b5814aab410000f5000a6b"
+  },
+  "Username": "listia",
+  "Email": "listia@gmail.com",
+  "Phone": "08123456789",
+  "Password": "$2y$10$vB6fIhTmn3S4R33Mq5tIJ.gQpaoiPijzcH2BO2Etri1B255v8ivy."
+},{
+  "_id": {
+    "$oid": "63b58d31012f00008b0039a3"
+  },
+  "Username": "sarah",
+  "Email": "sarah@gmail.com",
+  "Phone": "08123456789",
+  "Password": "$2y$10$3JqWjSjvNXpUYIKj3cfaoe2GIAEbXdpkqF/0tnx87QO5rOmhKFhh."
+}]

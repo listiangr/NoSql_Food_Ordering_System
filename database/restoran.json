@@ -1,0 +1,61 @@
+[{
+  "_id": {
+    "$oid": "63b5a561d5ac857b5aee7c2a"
+  },
+  "nama": "Nasi Goreng Agin - Isola",
+  "lokasi": "Jalan Gegerkalong Girang No.46, Isola, Sukasari, Bandung, Jawa Barat. 40154",
+  "menu": [
+    {
+      "nama": "Nasi Gila Seafood",
+      "harga": 25000
+    },
+    {
+      "nama": "Nasi Goreng Ayam",
+      "harga": 18000
+    },
+    {
+      "nama": "Capcay Goreng Spesial",
+      "harga": 24000
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63b5a6e2d5ac857b5aee7c2b"
+  },
+  "nama": "Mie Gacoan - Gegerkalong",
+  "lokasi": "Jalan Dr. Setiabudi No.191B, Gegerkalong, Sukasari, Bandung, Jawa Barat. 40153",
+  "menu": [
+    {
+      "nama": "Mie Angel",
+      "harga": 14508
+    },
+    {
+      "nama": "Mie Iblis Level 1",
+      "harga": 14508
+    },
+    {
+      "nama": "Mie Setan Level 1",
+      "harga": 14508
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63b5a76dd5ac857b5aee7c2c"
+  },
+  "nama": "HAUS! - Gegerkalong",
+  "lokasi": "Jalan Gegerkalong Girang No.20, Isola, Sukasari, Bandung, Jawa Barat. 40154",
+  "menu": [
+    {
+      "nama": "Thai Tea",
+      "harga": 8500
+    },
+    {
+      "nama": "Oreo",
+      "harga": 16500
+    },
+    {
+      "nama": "Boba Brown Sugar Fresh Milk",
+      "harga": 19500
+    }
+  ]
+}]

@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "63b5a9f5d5ac857b5aee7c32"
+  },
+  "id_restoran": {
+    "$oid": "63b5a76dd5ac857b5aee7c2c"
+  },
+  "tujuan": "Jalan Gegerkalong Girang, Gang Cempaka No.21A, Isola, Sukasari, Bandung, Jawa Barat. 40154",
+  "pesanan": [
+    {
+      "nama": "Oreo",
+      "harga": 16500,
+      "jumlah": 1
+    },
+    {
+      "nama": "Boba Brown Sugar Fresh Milk",
+      "harga": 19500,
+      "jumlah": 1
+    }
+  ],
+  "ongkir": 10000,
+  "total": 46000,
+  "user": "listia@gmail.com"
+},{
+  "_id": {
+    "$oid": "63b5abaad5ac857b5aee7c33"
+  },
+  "id_restoran": {
+    "$oid": "63b5a561d5ac857b5aee7c2a"
+  },
+  "tujuan": "Jalan ABC No.33, Isola, Sukasari, Bandung, Jawa Barat. 40154",
+  "pesanan": [
+    {
+      "nama": "Nasi Gila Seafood",
+      "harga": 25000,
+      "jumlah": 1
+    }
+  ],
+  "ongkir": 10000,
+  "total": 35000,
+  "user": "sarah@gmail.com"
+},{
+  "_id": {
+    "$oid": "63b5ac96d5ac857b5aee7c34"
+  },
+  "id_restoran": {
+    "$oid": "63b5a6e2d5ac857b5aee7c2b"
+  },
+  "tujuan": "Jalan XYZ No.100, Isola, Sukasari, Bandung, Jawa Barat. 40154",
+  "pesanan": [
+    {
+      "nama": "Mie Setan Level 1",
+      "harga": 14508,
+      "jumlah": 1
+    }
+  ],
+  "ongkir": 10000,
+  "total": 24508,
+  "user": "fia@gmail.com"
+}]
